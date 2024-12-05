@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0907-koko-eating-bananas](https://github.com/tranghane/leet/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/tranghane/leet/tree/master/1014-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/tranghane/leet/tree/master/1014-k-closest-points-to-origin) |
+## Binary Search
+|  |
+| ------- |
+| [0907-koko-eating-bananas](https://github.com/tranghane/leet/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
