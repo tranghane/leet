@@ -92,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tranghane/leet/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tranghane/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/tranghane/leet/tree/master/0143-reorder-list) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tranghane/leet/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tranghane/leet/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/tranghane/leet/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
