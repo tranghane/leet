@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tranghane/leet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/tranghane/leet/tree/master/0015-3sum) |
+| [0078-subsets](https://github.com/tranghane/leet/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tranghane/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/tranghane/leet/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/tranghane/leet/tree/master/0739-daily-temperatures) |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/tranghane/leet/tree/master/0102-binary-tree-level-order-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tranghane/leet/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/tranghane/leet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
