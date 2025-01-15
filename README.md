@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tranghane/leet/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tranghane/leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/tranghane/leet/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/tranghane/leet/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/tranghane/leet/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/tranghane/leet/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/tranghane/leet/tree/master/1014-k-closest-points-to-origin) |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tranghane/leet/tree/master/0078-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/tranghane/leet/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
